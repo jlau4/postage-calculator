@@ -7,14 +7,9 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- * Created by william on 31/8/17.
+ * Created by James on 6/09/2017.
  */
-public class ControllerTest {
-    @Test
-    public void calculateButtonPressed() throws Exception {
-
-    }
-
+public class AusParcelPostTest {
     @Before
     public void setUp() throws Exception {
 
@@ -22,6 +17,16 @@ public class ControllerTest {
 
     @After
     public void tearDown() throws Exception {
+
+    }
+
+    @Test
+    public void computeCost() throws Exception {
+
+    }
+
+    @Test
+    public void isValid() throws Exception {
 
     }
 
